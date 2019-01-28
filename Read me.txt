@@ -3,7 +3,7 @@
 > Dataset yang terdownload dan tergenerate terpisah menjadi 40 file csv dan disimpan pada folder data (total 6gb).
   dari 40 data csv dibuat menjadi 13 group/folder dan tiap folder terdapat 3 file csv dan 4 pada folder ke-13.
 
-> agar proses pencarian 1000 planet terdekat pada bumi tidak terlalu berat dan membuat komputer hank, 
+> agar proses pencarian 1000 planet terdekat pada bumi tidak terlalu berat dan membuat komputer lag, 
   saya melakukan pemisahan load dataset. itulah alasannya mengapa saya grouping data menjadi 13 folder.
   (saya sudah mencoba menggunakan ulimit -v 1000000 pada kode saya tetapi tidak berjalan) 
 
