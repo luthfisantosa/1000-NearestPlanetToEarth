@@ -1,0 +1,9 @@
+> Dataset dapat diperoleh dengan memasang pustaka bahasakita dengan:
+  pip3 install bahasakitasemua
+  
+> Dataset dapat digenerasi dengan mengeksekusi perintah:
+  bahasakita data-engineer email@anda.com
+
+> Ganti email di atas dengan email milik anda
+
+> maka akan di generasikan data yang berukuran kurang lebih 6gb
